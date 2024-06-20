@@ -7,7 +7,7 @@
 
 body {
     height: 100vh;
-    background: #1b98e0;
+    background: #313638;
 }
 
 .container {
@@ -49,7 +49,7 @@ body {
 }
 
 .search-container button {
-    background-color: #1b98e0;
+    background-color: #313638;
     border: none;
     cursor: pointer;
     color: #ffffff;
